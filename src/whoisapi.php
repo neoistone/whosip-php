@@ -26,5 +26,4 @@ class neoistone_whois
         curl_close ($ch);
         return json_decode($server_output,1);
     }
-
 }
