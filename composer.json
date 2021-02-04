@@ -9,7 +9,6 @@
             "email": "dev@neoistone.com"
         }
     ],
-    "psr-4": { "": "src/" },
     "require": {
         "php": ">=7.0"
     },
