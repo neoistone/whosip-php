@@ -11,10 +11,9 @@
         "php": "^7.3"
     },
     "autoload": {
-	 "psr-4": [
-           "neoistone\\api\\": "src/whoisapi.php"
-        ]
-	   
+      "psr-4": {
+        "neoistone\\api\\": "src/whoisapi.php"
+      }	   
     },
      "minimum-stability": "stable",
      "license": "Apache-2.0",
