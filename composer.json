@@ -15,7 +15,7 @@
 	     "src/whoisapi.php"
       ],
       "psr-4": [
-        "neoistone\api\\": "src"
+        "neoistone\\api\\": "src"
       ]   
     },
      "minimum-stability": "stable",
