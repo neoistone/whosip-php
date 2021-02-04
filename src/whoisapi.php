@@ -1,9 +1,6 @@
 <?php
 
 
-namespace neoistone\api;
-
-
 class whois_ip
 {
   private  $api = "https://restapi.neoistone.com/v2/whois/ip/";
