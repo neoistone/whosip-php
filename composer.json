@@ -1,6 +1,7 @@
 {
     "name": "neoistone/iplookup",
     "description": "ip whois lookup with domains,company inforamtion,location etc...",
+    "type": "library",
     "authors": [
         {
             "name": "Neoistone",
@@ -8,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.3"
+        "php": "^7.*"
     },
     "autoload": {
       "classmap": [
