@@ -17,5 +17,5 @@
       "psr-4": { "": "src/" }
     },
      "minimum-stability": "stable",
-     "license": "Apache-2.0",
+     "license": "Apache-2.0"
 }
