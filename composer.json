@@ -11,8 +11,11 @@
         "php": "^7.3"
     },
     "autoload": {
+      "classmap": [
+	     "src/class.database.php"
+      ],
       "psr-4": {
-        "neoistone\\api\\": "src/whoisapi.php"
+        "neoistone\\api\\": "src"
       }	   
     },
      "minimum-stability": "stable",
