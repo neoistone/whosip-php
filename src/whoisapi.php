@@ -4,12 +4,12 @@
 namespace neoistone\api;
 
 
-class neoistone_whois
+class whois_ip
 {
   private  $api = "https://restapi.neoistone.com/v2/whois/ip/";
 
     /**
-     * neoistone_whois constructor.
+     * whois_ip constructor.
      * @param $ip
      * @param $type
      */
