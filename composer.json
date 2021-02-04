@@ -2,20 +2,21 @@
     "name": "neoistone/iplookup",
     "description": "ip whois lookup with domains,company inforamtion,location etc...",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Neoistone",
             "email": "dev@neoistone.com"
         }
     ],
+    "psr-4": { "": "src/" }
     "require": {
         "php": ">=7.0"
     },
     "autoload": {
       "classmap": [
 	     "src/whoisapi.php"
-      ],
-      "psr-4": { "": "src/" }
+      ]
     },
      "license": "Apache-2.0"
 }
