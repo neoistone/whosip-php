@@ -12,11 +12,11 @@
     },
     "autoload": {
       "classmap": [
-	     "src/class.database.php"
+	     "src/whoisapi.php"
       ],
-      "psr-4": {
+      "psr-4": [
         "neoistone\\api\\": "src"
-      }	   
+      ]   
     },
      "minimum-stability": "stable",
      "license": "Apache-2.0",
