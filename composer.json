@@ -2,6 +2,7 @@
     "name": "neoistone/iplookup",
     "description": "ip whois lookup with domains,company inforamtion,location etc...",
     "type": "library",
+    "version" :  "1.0",
     "authors": [
         {
             "name": "Neoistone",
