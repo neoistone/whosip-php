@@ -11,12 +11,9 @@
         "php": "^7.3"
     },
     "autoload": {
-	"classmap": [
-	   "src/whoisapi.php"
-         ],
-	 "psr-4": {
-         "neoistone\\api\\": "src/whoisapi.php"
-        }
+	 "psr-4": [
+           "neoistone\\api\\": "src/whoisapi.php"
+        ]
 	   
     },
      "minimum-stability": "stable",
